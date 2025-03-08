@@ -1,14 +1,19 @@
 # Figma MCP Python
 
 [![PyPI version](https://badge.fury.io/py/figma-mcp.svg)](https://badge.fury.io/py/figma-mcp)
+[![smithery badge](https://smithery.ai/badge/@JayZeeDesign/figma-mcp)](https://smithery.ai/server/@JayZeeDesign/figma-mcp)
 
 Allow your AI coding agents to access Figma files & prototypes directly.
 You can DM me for any issues / improvements: https://x.com/jasonzhou1993
 
 ## Quick Installation with pipx
 
+### Installing via Smithery
+
+To install figma-mcp for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@JayZeeDesign/figma-mcp):
+
 ```bash
-pipx install figma-mcp
+npx -y @smithery/cli install @JayZeeDesign/figma-mcp --client claude
 ```
 
 ### For Cursor:
