@@ -5,6 +5,10 @@
 Allow your AI coding agents to access Figma files & prototypes directly.
 You can DM me for any issues / improvements: https://x.com/jasonzhou1993
 
+<a href="https://glama.ai/mcp/servers/pqweyr4aq9">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/pqweyr4aq9/badge" alt="figma-mcp MCP server" />
+</a>
+
 ## Quick Installation with pipx
 
 ```bash
@@ -62,5 +66,3 @@ uv sync
 ```bash
 python -m figma_mcp.main
 ```
-
-
